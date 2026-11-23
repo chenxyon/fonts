@@ -1,0 +1,13 @@
+{
+    "name": "fonts",
+    "version": "1.0.0",
+    "description": "字体组件：cbin 字体/图片动态解析（CbinFont）、Font Awesome 6.5.2 图标字体（FontAwesome）、Font Awesome 14px 与普惠基础 14px 预生成字库",
+    "keywords": "font, lvgl, cbin, font-awesome, icon",
+    "author": "chenxyon",
+    "license": "MIT",
+    "frameworks": "espidf",
+    "platforms": ["espressif32"],
+    "dependencies": {
+        "lvgl/lvgl": "^9.2.0"
+    }
+}

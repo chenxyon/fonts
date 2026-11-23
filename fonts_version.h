@@ -1,0 +1,4 @@
+﻿#ifndef FONTS_VERSION_H
+#define FONTS_VERSION_H
+#define FONTS_VERSION_STRING   "1.0.0"
+#endif /* FONTS_VERSION_H */
